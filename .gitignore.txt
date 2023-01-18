@@ -1,0 +1,10 @@
+acomph/
+grande/
+iguacu/
+parana/
+paranaiba/
+paranapanema/
+psat/
+saofrancisco/
+tocantins/
+uruguai/
